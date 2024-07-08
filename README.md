@@ -69,4 +69,5 @@ _The Private Cloud_
 - It can be created and managed by a third party for the exclusive use of one enterprise, allowing the organization to leverage cloud technologies while maintaining complete control.
 - This highly controlled environment is particularly viable for large enterprises.
 
-_What is a Private Cloud? Private vs Public Cloud_
+_The Hybrid and Multicloud Model_
+- 
