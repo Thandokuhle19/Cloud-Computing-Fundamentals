@@ -70,4 +70,13 @@ _The Private Cloud_
 - This highly controlled environment is particularly viable for large enterprises.
 
 _The Hybrid and Multicloud Model_
-- 
+- A hybrid I is a combination of private and public cloud services to solve business problems.
+- It aims to create a unified, automated, and well-managed computing environment.
+- Multicloud is when multiple public clouds are used within an organization, providing visibility, control, and choice between clouds.
+- This is the definition of corporate computing, where multiple public and private services are combined to create value.
+- Not all companies use both public and private cloud services.
+- In the following circumstances, a computing environment is not a hybrid or multicloud:
+                            - The company does not have a hybrid environment if there are little developers in a company use a public cloud service to prototype a new application that is completely disconnected from the private cloud or the data center.
+                            - Environment is not hybrid if a company is using SaaS application for a project but there is no movement of data from that application into the company's data center.
+                            - If different divisions within an enterprise are standardized on different public cloud infrastructures, but each division only utilizes and manages a single public cloud.
+- A cloud is hybrid or multi in the following situations:
