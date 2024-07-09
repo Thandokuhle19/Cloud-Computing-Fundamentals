@@ -80,3 +80,43 @@ _The Hybrid and Multicloud Model_
                             - Environment is not hybrid if a company is using SaaS application for a project but there is no movement of data from that application into the company's data center.
                             - If different divisions within an enterprise are standardized on different public cloud infrastructures, but each division only utilizes and manages a single public cloud.
 - A cloud is hybrid or multi in the following situations:
+                        - If a company uses a public development platform that sends data to a private cloud or a data center-based application, the cloud is hybrid.
+                        - When a company leverages a number of SaaS applications and moves data between private or data center resources, the cloud is hybrid.
+                        - When a business process is designed as a service so that it can connect with environments as though they were a single environment, the cloud is hybrid.
+                        - When a SaaS analytics platform is used and data from multiple cloud sources are ingested.
+                        - When your organization can move workloads to different public clouds based on cost or performance concerns.
+
+_Cloud Within a Cloud (Virtual Private Cloud)_
+- Known as virtual private cloud (VPC), are single-tenant deployments where an organization's cloud services are hosted by a public CSP in an isolated segment, with full administrative responsibility, despite shared resources with other companies.
+- Here are some key differences:
+                - VPC: logical isolation of the cloud deployment that resides on a CSP's infrastructure (and is therefore scalable).
+                - Private cloud: physical isolation of the cloud deployment in a private data center, a community data center, or CSP's infrastructure. It is limited by the available hardware and therefore less scalable.
+
+_What is a Virtual Private Cloud?_
+- 
+
+_Multitenancy_
+- This is the concept behind public cloud deployments.
+- Multiple consumers, known as tenants, share computing resources owned and managed by the CSP
+- This is the opposite idea from a VPC deployment.
+- It is multitenancy that provides the cost benefits behind shared resource utilization.
+
+_Multi-cloud_
+- Multi-cloud deployments combine cloud services from multiple public and private CSPs, offering flexibility, choice, data control, and disaster mitigation, reducing reliance on a single vendor.
+
+_Cloud Computing Elements: Resource Pools/Cloud Models and Services_
+- Infrastructure technology resources like processors, storage, and networking are essential, but also include software services like databases and email servers.
+- These services are typically built as a shared, multi-tenant service in cloud environments.
+- This architecture allows customers to share computing resources, but their individual configurations and data are isolated.
+- This approach is beneficial for cloud providers and software vendors, as it allows for shared infrastructure and saves software data, settings, and preferences.
+
+# Cloud Delivery Models
+- Cloud services offload responsibility from traditional client-server models, allowing companies to manage servers, storage, and networking more easily.
+- This model allows for the offloading of these responsibilities to a cloud service provider, simplifying business needs.
+- In this section, we focus on the models that represent computing environment services:
+                            - Infrastructure as a Service (IaaS): The consumer manages hardware infrastructure, firmware updates, device drivers, and compatibility, installs and manages the operating system, and assumes responsibility for all layers above it.
+                            - Platform as a Service (PaaS): The CSP provides a service structure, but consumer management and content responsibility are up to them, while the CSP handles hardware and service platform support.
+                            - Software as Service (SaaS): he consumer is being provided with the direct use of the software. Responsibility for the hardware where that software runs, the operating system upon which it runs, and the installation and patching of the software itself are all offloaded to the CSP.
+
+_Infrastructure as a Service_
+- 
