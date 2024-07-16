@@ -1,4 +1,7 @@
 # Cloud-Computing-Fundamentals
+<details>
+<summary> Charpter 1 : Defining Data Governance  </summary>
+<br>
 _What is the cloud?_
 - Cloud computing has revolutionized businesses by offering on-demand computing power, unlimited scalability, and flexible pricing models.
 - Startups disrupt established players, while established businesses enhance capabilities and processes.
@@ -117,6 +120,4 @@ _Cloud Computing Elements: Resource Pools/Cloud Models and Services_
                             - Infrastructure as a Service (IaaS): The consumer manages hardware infrastructure, firmware updates, device drivers, and compatibility, installs and manages the operating system, and assumes responsibility for all layers above it.
                             - Platform as a Service (PaaS): The CSP provides a service structure, but consumer management and content responsibility are up to them, while the CSP handles hardware and service platform support.
                             - Software as Service (SaaS): he consumer is being provided with the direct use of the software. Responsibility for the hardware where that software runs, the operating system upon which it runs, and the installation and patching of the software itself are all offloaded to the CSP.
-
-_Infrastructure as a Service_
-- 
+</details>
